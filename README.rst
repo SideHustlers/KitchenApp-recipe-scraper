@@ -37,13 +37,12 @@ then:
 
     python parser.py
 
-A simple web scraping tool for recipe sites.
+Modified scrapers:
+---------------------
 
-.. code:: shell
+- bbcgoodfood.com
 
-    pip install recipe-scrapers
-
-then:
+Simple usage:
 
 .. code:: python
 
