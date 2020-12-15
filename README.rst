@@ -22,6 +22,17 @@
 
 ------
 
+! Create a virtualenv if making changes to this project !
+Build and install guide.
+.. code:: shell
+
+    venv/bin/python setup.py build
+    venv/bin/python setup.py install
+
+then:
+..code:: shell
+
+    python parser.py
 
 A simple web scraping tool for recipe sites.
 
