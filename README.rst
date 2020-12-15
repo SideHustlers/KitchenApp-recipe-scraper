@@ -22,7 +22,8 @@
 
 ------
 
-! Create a virtualenv if making changes to this project
+! Create a virtualenv if making changes to this project.
+
 Build and install guide.
 
 .. code:: shell
